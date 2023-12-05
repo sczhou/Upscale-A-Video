@@ -30,7 +30,7 @@
     </h4>
 </div>
 
-<strong>Upscale-A-Video is a diffusion-base model that upscales videos by taking the low-resolution video and text prompts as inputs.</strong>
+<strong>Upscale-A-Video is a diffusion-based model that upscales videos by taking the low-resolution video and text prompts as inputs.</strong>
 
 <div style="width: 100%; text-align: center; margin:auto;">
     <img style="width:100%" src="assets/teaser.png">
@@ -51,4 +51,4 @@
 ![overall_structure](assets/pipeline.png)
 
 ## 📧 Contact
-If you have any questions, please feel free to reach us out at `shangchenzhou@gmail.com` or `peiqing001@ntu.edu.sg`. 
+If you have any questions, please feel free to reach us at `shangchenzhou@gmail.com` or `peiqingyang99@outlook.com`. 
