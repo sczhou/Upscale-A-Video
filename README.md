@@ -17,13 +17,13 @@
 
 <div>
     <h4 align="center">
-        <a href="#" target='_blank'>
+        <a href="https://shangchenzhou.com/projects/upscale-a-video/" target='_blank'>
         <img src="https://img.shields.io/badge/🐳-Project%20Page-blue">
         </a>
-        <a href="#" target='_blank'>
-        <img src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg">
+        <a href="https://arxiv.org/abs/2312.06640" target='_blank'>
+        <img src="https://img.shields.io/badge/arXiv-2312.06640-b31b1b.svg">
         </a>
-        <a href="#" target='_blank'>
+        <a href="https://www.youtube.com/watch?v=b9J3lqiKnLM" target='_blank'>
         <img src="https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?logo=YouTube&logoColor=white">
         </a>
         <img src="https://api.infinitescript.com/badgen/count?name=sczhou/Upscale-A-Video">
