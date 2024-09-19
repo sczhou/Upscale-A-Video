@@ -1,0 +1,4 @@
+LLAVA_CLIP_PATH = None
+LLAVA_MODEL_PATH = 'liuhaotian/llava-v1.5-13b'
+SDXL_CLIP1_PATH = None
+SDXL_CLIP2_CKPT_PTH = None
