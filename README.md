@@ -13,7 +13,11 @@
     <a href='https://www.mmlab-ntu.com/person/ccloy/' target='_blank'>Chen Change Loy</a>
 </div>
 <div>
-    S-Lab, Nanyang Technological University&emsp; 
+    S-Lab, Nanyang Technological University
+</div>
+
+<div>
+    <strong>CVPR 2024 (Highlight)</strong>
 </div>
 
 <div>
