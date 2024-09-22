@@ -211,7 +211,7 @@ class Predictor(BasePredictor):
             )
             print(wrapped_caption)
 
-        prompt = video_caption + a_prompt
+        prompt = video_caption + " " + a_prompt
         print(f"Final prompt: {prompt}")
 
         vframes = (vframes / 255.0 - 0.5) * 2  # T C H W [-1, 1]
