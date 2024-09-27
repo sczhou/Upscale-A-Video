@@ -31,6 +31,9 @@
         <a href="https://www.youtube.com/watch?v=b9J3lqiKnLM" target='_blank'>
         <img src="https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?logo=YouTube&logoColor=white">
         </a>
+        <a href="https://replicate.com/sczhou/upscale-a-video" target='_blank'>
+        <img src="https://replicate.com/sczhou/upscale-a-video/badge">
+        </a>
         <img src="https://api.infinitescript.com/badgen/count?name=sczhou/Upscale-A-Video">
     </h4>
 </div>
