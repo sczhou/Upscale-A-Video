@@ -31,11 +31,11 @@
         <a href="https://www.youtube.com/watch?v=b9J3lqiKnLM" target='_blank'>
         <img src="https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?logo=YouTube&logoColor=white">
         </a>
-        <img src="https://api.infinitescript.com/badgen/count?name=sczhou/Upscale-A-Video">
-        <a href="https://replicate.com/chenxwh/upscale-a-video" target='_blank'>
-        <img src="https://replicate.com/chenxwh/upscale-a-video/badge">
+        <a href="https://replicate.com/sczhou/upscale-a-video" target='_blank'>
+        <img src="https://replicate.com/sczhou/upscale-a-video/badge">
         </a>
-</h4>
+        <img src="https://api.infinitescript.com/badgen/count?name=sczhou/Upscale-A-Video">
+    </h4>
 </div>
 
 <strong>Upscale-A-Video is a diffusion-based model that upscales videos by taking the low-resolution video and text prompts as inputs.</strong>
